@@ -320,7 +320,7 @@ $
 
 ## Authors ##
 
-👤 **Mikael Alemu**
-👤 **Henok Diriba**
+👤 **Amir Urgessa**
+👤 **Leulseged Girma**
 
 
